@@ -1,0 +1,62 @@
+\contentsline {section}{\numberline {1}Introduzione}{2}
+\contentsline {section}{\numberline {2}La teoria economica del valore}{2}
+\contentsline {section}{\numberline {3}Le origini del concetto di valore}{2}
+\contentsline {section}{\numberline {4}La scuola classica - dal valore nella terra al valore nel lavoro}{3}
+\contentsline {subsection}{\numberline {4.1}Smith - prodotto netto composto da rendita e profitto}{3}
+\contentsline {subsection}{\numberline {4.2}Ricardo - la distribuzione del lavoro}{4}
+\contentsline {subsection}{\numberline {4.3}Marx}{4}
+\contentsline {subsection}{\numberline {4.4}Verso una nuova teoria del valore - I Marginalisti}{4}
+\contentsline {section}{\numberline {5}Misurare la ricchezza}{5}
+\contentsline {section}{\numberline {6}Il concetto di Innvazione in economia}{5}
+\contentsline {subsection}{\numberline {6.1}Cosa rende un impresa innovativa?}{6}
+\contentsline {section}{\numberline {7}Le fonti dell'Innvoazione }{6}
+\contentsline {subsection}{\numberline {7.1}Caso PillCamera }{6}
+\contentsline {subsection}{\numberline {7.2}Le fonti dell'innovazione}{6}
+\contentsline {subsection}{\numberline {7.3}Il ruolo della Ricerca}{7}
+\contentsline {subsection}{\numberline {7.4}Network Collaborativi}{8}
+\contentsline {subsection}{\numberline {7.5}Concetto di Cluster Tecnologico}{8}
+\contentsline {section}{\numberline {8}Forme e modelli dell'innvazione}{9}
+\contentsline {subsection}{\numberline {8.1}Caso Studio Tesla Motor}{9}
+\contentsline {subsection}{\numberline {8.2}Forme dell'innvoazione}{9}
+\contentsline {section}{\numberline {9}Ciclo di vita di della tecnologia}{10}
+\contentsline {subsection}{\numberline {9.1}La diffusione della Tecnologia}{10}
+\contentsline {section}{\numberline {10}Conflitti di standard e disegno dominante}{10}
+\contentsline {subsection}{\numberline {10.1}La concorrenza per lo standard dei pagamenti digitali}{10}
+\contentsline {subsection}{\numberline {10.2}L'affermazione di uno starndard dominante}{11}
+\contentsline {subsection}{\numberline {10.3}Formazione dei mercati winners-take-all}{12}
+\contentsline {subsection}{\numberline {10.4}Valore stand-alone di una tecnologia}{12}
+\contentsline {section}{\numberline {11}Tempo d'entrata}{12}
+\contentsline {subsection}{\numberline {11.1}Vantaggi di un First mover}{12}
+\contentsline {subsection}{\numberline {11.2}Svantaggi First Mover}{13}
+\contentsline {subsection}{\numberline {11.3}Fattori che determinano la strategia d\IeC {\textquoteright }entrata ottimale}{13}
+\contentsline {subsection}{\numberline {11.4}First Movers vs Follower}{14}
+\contentsline {subsection}{\numberline {11.5}FMA nel mercato Abilitato da Internet}{15}
+\contentsline {section}{\numberline {12}Definizione dell'orientamento strategico}{15}
+\contentsline {subsection}{\numberline {12.1}Come si contruisce nua strategia basatas ull'innovazione?}{15}
+\contentsline {subsection}{\numberline {12.2}Analisi stakeholders}{16}
+\contentsline {subsection}{\numberline {12.3}Analisi del cambiamento interno }{16}
+\contentsline {subsection}{\numberline {12.4}Le competenze distinitve (core competencies)}{16}
+\contentsline {subsubsection}{\numberline {12.4.1}Le dimensioni delle competenze}{16}
+\contentsline {section}{\numberline {13}Scelta dei proegtti di innovazione}{17}
+\contentsline {subsection}{\numberline {13.1}Caso Bugs Lab}{17}
+\contentsline {subsection}{\numberline {13.2}Valutazione dei progttei d'innovazione}{17}
+\contentsline {subsubsection}{\numberline {13.2.1}Budget di sviluppo per settore }{17}
+\contentsline {subsection}{\numberline {13.3}Metodi quantitativi per la scelta dei progetti}{17}
+\contentsline {subsubsection}{\numberline {13.3.1}Le tecniche di attualizzazione dei flussi di cassa}{17}
+\contentsline {subsubsection}{\numberline {13.3.2}Il metodo delle opzioni reali}{18}
+\contentsline {subsection}{\numberline {13.4}Metodi Qualitativi}{18}
+\contentsline {section}{\numberline {14}Strategie di Collaborazione}{19}
+\contentsline {subsection}{\numberline {14.1}Vantaggio sviluppo autonomo }{19}
+\contentsline {subsection}{\numberline {14.2}Vantaggi della collaborazione}{19}
+\contentsline {subsection}{\numberline {14.3}Le forme della Collaborazione}{19}
+\contentsline {subsection}{\numberline {14.4}Alleanze e licensing per stabilire uno standard}{20}
+\contentsline {subsection}{\numberline {14.5}Scelta e controllo dei partner}{21}
+\contentsline {section}{\numberline {15}Meccanismo di protezione dell'innovazione}{21}
+\contentsline {subsection}{\numberline {15.1}Brevetti}{21}
+\contentsline {subsubsection}{\numberline {15.1.1}Strategie Brevettuali}{22}
+\contentsline {subsection}{\numberline {15.2}Marchi}{22}
+\contentsline {subsection}{\numberline {15.3}Copyright}{22}
+\contentsline {subsection}{\numberline {15.4}Segreto Industriale }{22}
+\contentsline {subsection}{\numberline {15.5}Vantaggi della protezione}{22}
+\contentsline {subsection}{\numberline {15.6}Sistemi Aperti Sistemi Chiusi}{22}
+\contentsline {section}{\numberline {16}Conclusion}{23}
