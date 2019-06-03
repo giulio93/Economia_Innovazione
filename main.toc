@@ -1,25 +1,25 @@
 \contentsline {section}{\numberline {1}Introduzione}{3}
 \contentsline {section}{\numberline {2}La teoria economica del valore}{3}
 \contentsline {section}{\numberline {3}Le origini del concetto di valore}{3}
-\contentsline {section}{\numberline {4}La scuola classica - dal valore nella terra al valore nel lavoro}{3}
+\contentsline {section}{\numberline {4}La scuola classica - dal valore nella terra al valore nel lavoro}{4}
 \contentsline {subsection}{\numberline {4.1}Smith - prodotto netto composto da rendita e profitto}{4}
-\contentsline {subsection}{\numberline {4.2}Ricardo - la distribuzione del lavoro}{4}
+\contentsline {subsection}{\numberline {4.2}Ricardo - la distribuzione del lavoro}{5}
 \contentsline {subsection}{\numberline {4.3}Marx}{5}
 \contentsline {subsection}{\numberline {4.4}Verso una nuova teoria del valore - I Marginalisti}{5}
 \contentsline {section}{\numberline {5}Misurare la ricchezza}{5}
 \contentsline {section}{\numberline {6}Il concetto di Innvazione in economia}{6}
-\contentsline {subsection}{\numberline {6.1}Cosa rende un impresa innovativa?}{6}
+\contentsline {subsection}{\numberline {6.1}Cosa rende un impresa innovativa?}{7}
 \contentsline {section}{\numberline {7}Le fonti dell'Innvoazione }{7}
 \contentsline {subsection}{\numberline {7.1}Caso PillCamera }{7}
 \contentsline {subsection}{\numberline {7.2}Le fonti dell'innovazione}{7}
 \contentsline {subsection}{\numberline {7.3}Il ruolo della Ricerca}{8}
 \contentsline {subsection}{\numberline {7.4}Network Collaborativi}{9}
 \contentsline {subsection}{\numberline {7.5}Concetto di Cluster Tecnologico}{9}
-\contentsline {section}{\numberline {8}Forme e modelli dell'innvazione}{9}
-\contentsline {subsection}{\numberline {8.1}Caso Studio Tesla Motor}{9}
-\contentsline {subsection}{\numberline {8.2}Forme dell'innvoazione}{9}
-\contentsline {section}{\numberline {9}Ciclo di vita di della tecnologia}{10}
-\contentsline {subsection}{\numberline {9.1}La diffusione della Tecnologia}{10}
+\contentsline {section}{\numberline {8}Forme e modelli dell'innvazione}{10}
+\contentsline {subsection}{\numberline {8.1}Caso Studio Tesla Motor}{10}
+\contentsline {subsection}{\numberline {8.2}Forme dell'innvoazione}{10}
+\contentsline {section}{\numberline {9}Ciclo di vita di della tecnologia}{11}
+\contentsline {subsection}{\numberline {9.1}La diffusione della Tecnologia}{11}
 \contentsline {section}{\numberline {10}Conflitti di standard e disegno dominante}{11}
 \contentsline {subsection}{\numberline {10.1}La concorrenza per lo standard dei pagamenti digitali}{11}
 \contentsline {subsection}{\numberline {10.2}L'affermazione di uno starndard dominante}{12}
@@ -30,69 +30,78 @@
 \contentsline {subsection}{\numberline {11.2}Svantaggi First Mover}{14}
 \contentsline {subsection}{\numberline {11.3}Fattori che determinano la strategia d\IeC {\textquoteright }entrata ottimale}{14}
 \contentsline {subsection}{\numberline {11.4}First Movers vs Follower}{15}
-\contentsline {subsection}{\numberline {11.5}FMA nel mercato Abilitato da Internet}{15}
-\contentsline {section}{\numberline {12}Definizione dell'orientamento strategico}{15}
-\contentsline {subsection}{\numberline {12.1}Come si contruisce nua strategia basatas ull'innovazione?}{15}
-\contentsline {subsection}{\numberline {12.2}Analisi stakeholders}{16}
-\contentsline {subsection}{\numberline {12.3}Analisi del cambiamento interno }{16}
+\contentsline {subsection}{\numberline {11.5}FMA nel mercato Abilitato da Internet}{16}
+\contentsline {section}{\numberline {12}Definizione dell'orientamento strategico}{16}
+\contentsline {subsection}{\numberline {12.1}Come si contruisce nua strategia basatas ull'innovazione?}{16}
+\contentsline {subsection}{\numberline {12.2}Analisi stakeholders}{17}
+\contentsline {subsection}{\numberline {12.3}Analisi del cambiamento interno }{17}
 \contentsline {subsection}{\numberline {12.4}Le competenze distinitve (core competencies)}{17}
 \contentsline {subsubsection}{\numberline {12.4.1}Le dimensioni delle competenze}{17}
-\contentsline {section}{\numberline {13}Scelta dei proegtti di innovazione}{17}
-\contentsline {subsection}{\numberline {13.1}Caso Bugs Lab}{17}
-\contentsline {subsection}{\numberline {13.2}Valutazione dei progttei d'innovazione}{17}
+\contentsline {section}{\numberline {13}Scelta dei proegtti di innovazione}{18}
+\contentsline {subsection}{\numberline {13.1}Caso Bugs Lab}{18}
+\contentsline {subsection}{\numberline {13.2}Valutazione dei progttei d'innovazione}{18}
 \contentsline {subsubsection}{\numberline {13.2.1}Budget di sviluppo per settore }{18}
 \contentsline {subsection}{\numberline {13.3}Metodi quantitativi per la scelta dei progetti}{18}
 \contentsline {subsubsection}{\numberline {13.3.1}Le tecniche di attualizzazione dei flussi di cassa}{18}
-\contentsline {subsubsection}{\numberline {13.3.2}Il metodo delle opzioni reali}{18}
+\contentsline {subsubsection}{\numberline {13.3.2}Il metodo delle opzioni reali}{19}
 \contentsline {subsection}{\numberline {13.4}Metodi Qualitativi}{19}
-\contentsline {section}{\numberline {14}Strategie di Collaborazione}{19}
-\contentsline {subsection}{\numberline {14.1}Vantaggio sviluppo autonomo }{19}
+\contentsline {section}{\numberline {14}Strategie di Collaborazione}{20}
+\contentsline {subsection}{\numberline {14.1}Vantaggio sviluppo autonomo }{20}
 \contentsline {subsection}{\numberline {14.2}Vantaggi della collaborazione}{20}
 \contentsline {subsection}{\numberline {14.3}Le forme della Collaborazione}{20}
-\contentsline {subsection}{\numberline {14.4}Alleanze e licensing per stabilire uno standard}{20}
-\contentsline {subsection}{\numberline {14.5}Scelta e controllo dei partner}{21}
-\contentsline {section}{\numberline {15}Meccanismo di protezione dell'innovazione}{21}
+\contentsline {subsection}{\numberline {14.4}Alleanze e licensing per stabilire uno standard}{21}
+\contentsline {subsection}{\numberline {14.5}Scelta e controllo dei partner}{22}
+\contentsline {section}{\numberline {15}Meccanismo di protezione dell'innovazione}{22}
 \contentsline {subsection}{\numberline {15.1}Brevetti}{22}
-\contentsline {subsubsection}{\numberline {15.1.1}Strategie Brevettuali}{22}
-\contentsline {subsection}{\numberline {15.2}Marchi}{22}
-\contentsline {subsection}{\numberline {15.3}Copyright}{22}
+\contentsline {subsubsection}{\numberline {15.1.1}Strategie Brevettuali}{23}
+\contentsline {subsection}{\numberline {15.2}Marchi}{23}
+\contentsline {subsection}{\numberline {15.3}Copyright}{23}
 \contentsline {subsection}{\numberline {15.4}Segreto Industriale }{23}
 \contentsline {subsection}{\numberline {15.5}Vantaggi della protezione}{23}
 \contentsline {subsection}{\numberline {15.6}Sistemi Aperti Sistemi Chiusi}{23}
 \contentsline {section}{\numberline {16}Organizzazione dei processi di innovazione}{24}
 \contentsline {subsection}{\numberline {16.1}Organizzazione e dimensione di impresa}{24}
-\contentsline {subsection}{\numberline {16.2}Le variabili strutturali della dimensione d'impresa}{24}
+\contentsline {subsection}{\numberline {16.2}Le variabili strutturali della dimensione d'impresa}{25}
 \contentsline {subsection}{\numberline {16.3}Strutture meccaniche e organiche}{25}
 \contentsline {subsection}{\numberline {16.4}Organizazzione Ambidestra}{25}
 \contentsline {subsection}{\numberline {16.5}Modularit\IeC {\`a} dei prodotti}{25}
-\contentsline {subsection}{\numberline {16.6}Strutture Loosely Coupled}{25}
+\contentsline {subsection}{\numberline {16.6}Strutture Loosely Coupled}{26}
 \contentsline {subsection}{\numberline {16.7}La gestione dei processi interazionali di innovazione}{26}
 \contentsline {section}{\numberline {17}Gestione dei Team per lo sviluppo di un prodotto}{26}
 \contentsline {subsection}{\numberline {17.1}Il caso Disney}{26}
-\contentsline {subsection}{\numberline {17.2}Dimensione}{26}
+\contentsline {subsection}{\numberline {17.2}Dimensione}{27}
 \contentsline {subsection}{\numberline {17.3}Alleanze e licensing per stabilire uno standard}{27}
 \contentsline {subsection}{\numberline {17.4}Leadership del team }{27}
 \contentsline {subsection}{\numberline {17.5}Quality funcition Deployment}{28}
 \contentsline {section}{\numberline {18}Lo sviluppo di un nuovo prodotto}{29}
 \contentsline {subsection}{\numberline {18.1}Massimizzare la soddisfazione del cliente}{29}
-\contentsline {subsection}{\numberline {18.2}Ridurre il cliclo di vita dello sviluppo }{29}
+\contentsline {subsection}{\numberline {18.2}Ridurre il cliclo di vita dello sviluppo }{30}
 \contentsline {subsection}{\numberline {18.3}Project Champion }{30}
 \contentsline {subsection}{\numberline {18.4}Coinvolgimento Dei clienti e di efronitori nel processo di sviluppo}{30}
-\contentsline {subsubsection}{\numberline {18.4.1}Coinvolgimento dei clienti}{30}
+\contentsline {subsubsection}{\numberline {18.4.1}Coinvolgimento dei clienti}{31}
 \contentsline {subsubsection}{\numberline {18.4.2}Coinvolgimento dei fornitori}{31}
 \contentsline {subsection}{\numberline {18.5}Crowdsourcing}{31}
 \contentsline {subsection}{\numberline {18.6}Progetti stage-gate}{31}
 \contentsline {subsubsection}{\numberline {18.6.1}Quality funcition Deployment}{31}
-\contentsline {subsubsection}{\numberline {18.6.2}Design fro Manufacturing}{31}
-\contentsline {subsection}{\numberline {18.7}Misurazione della performance}{31}
+\contentsline {subsubsection}{\numberline {18.6.2}Design fro Manufacturing}{32}
+\contentsline {subsection}{\numberline {18.7}Misurazione della performance}{32}
 \contentsline {section}{\numberline {19}Circular Economy}{32}
 \contentsline {subsection}{\numberline {19.1}Does sustainability mean to limit the growth?}{33}
 \contentsline {subsection}{\numberline {19.2}Circular Economy }{33}
 \contentsline {subsection}{\numberline {19.3}Transition Tu circular economy}{33}
-\contentsline {subsection}{\numberline {19.4}Circular Business Model }{33}
+\contentsline {subsection}{\numberline {19.4}Circular Business Model }{34}
 \contentsline {subsubsection}{\numberline {19.4.1}Example of Circular Business Model}{34}
 \contentsline {subsection}{\numberline {19.5}Policies for a circular economy}{34}
 \contentsline {section}{\numberline {20}Le strategie di distribuzione}{34}
 \contentsline {subsection}{\numberline {20.1}L'adeguamento del piano di marketing agli adottatori}{34}
-\contentsline {subsection}{\numberline {20.2}Cosa pu\IeC {\`o} influenzare percezioni e aspettative del mercato?}{34}
-\contentsline {section}{\numberline {21}Conclusion}{35}
+\contentsline {subsection}{\numberline {20.2}Cosa pu\IeC {\`o} influenzare percezioni e aspettative del mercato?}{35}
+\contentsline {section}{\numberline {21}Strategie di innovazione nelle PMI}{35}
+\contentsline {subsection}{\numberline {21.1}Una popolazione eterogenea}{35}
+\contentsline {subsection}{\numberline {21.2}Ruolo dell'imprenditore e i regimi tecnologici}{36}
+\contentsline {subsection}{\numberline {21.3}Imprenditore orientato all'innovazione}{36}
+\contentsline {subsection}{\numberline {21.4}Le fonti dell'innovazione }{37}
+\contentsline {subsection}{\numberline {21.5}Competenze relazionali}{37}
+\contentsline {subsection}{\numberline {21.6}Spin-off Accademici}{37}
+\contentsline {subsection}{\numberline {21.7}Processi di Trasferimento Tech.}{37}
+\contentsline {subsection}{\numberline {21.8}Forme dell'innovazione}{37}
+\contentsline {section}{\numberline {22}Conclusion}{37}
