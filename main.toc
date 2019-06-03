@@ -1,8 +1,8 @@
 \contentsline {section}{\numberline {1}Introduzione}{2}
-\contentsline {section}{\numberline {2}La teoria economica del valore}{2}
+\contentsline {section}{\numberline {2}La teoria economica del valore}{3}
 \contentsline {section}{\numberline {3}Le origini del concetto di valore}{3}
 \contentsline {section}{\numberline {4}La scuola classica - dal valore nella terra al valore nel lavoro}{3}
-\contentsline {subsection}{\numberline {4.1}Smith - prodotto netto composto da rendita e profitto}{3}
+\contentsline {subsection}{\numberline {4.1}Smith - prodotto netto composto da rendita e profitto}{4}
 \contentsline {subsection}{\numberline {4.2}Ricardo - la distribuzione del lavoro}{4}
 \contentsline {subsection}{\numberline {4.3}Marx}{4}
 \contentsline {subsection}{\numberline {4.4}Verso una nuova teoria del valore - I Marginalisti}{4}
@@ -11,10 +11,10 @@
 \contentsline {subsection}{\numberline {6.1}Cosa rende un impresa innovativa?}{6}
 \contentsline {section}{\numberline {7}Le fonti dell'Innvoazione }{6}
 \contentsline {subsection}{\numberline {7.1}Caso PillCamera }{6}
-\contentsline {subsection}{\numberline {7.2}Le fonti dell'innovazione}{6}
+\contentsline {subsection}{\numberline {7.2}Le fonti dell'innovazione}{7}
 \contentsline {subsection}{\numberline {7.3}Il ruolo della Ricerca}{7}
 \contentsline {subsection}{\numberline {7.4}Network Collaborativi}{8}
-\contentsline {subsection}{\numberline {7.5}Concetto di Cluster Tecnologico}{8}
+\contentsline {subsection}{\numberline {7.5}Concetto di Cluster Tecnologico}{9}
 \contentsline {section}{\numberline {8}Forme e modelli dell'innvazione}{9}
 \contentsline {subsection}{\numberline {8.1}Caso Studio Tesla Motor}{9}
 \contentsline {subsection}{\numberline {8.2}Forme dell'innvoazione}{9}
@@ -25,11 +25,11 @@
 \contentsline {subsection}{\numberline {10.2}L'affermazione di uno starndard dominante}{11}
 \contentsline {subsection}{\numberline {10.3}Formazione dei mercati winners-take-all}{12}
 \contentsline {subsection}{\numberline {10.4}Valore stand-alone di una tecnologia}{12}
-\contentsline {section}{\numberline {11}Tempo d'entrata}{12}
+\contentsline {section}{\numberline {11}Tempo d'entrata}{13}
 \contentsline {subsection}{\numberline {11.1}Vantaggi di un First mover}{13}
 \contentsline {subsection}{\numberline {11.2}Svantaggi First Mover}{13}
-\contentsline {subsection}{\numberline {11.3}Fattori che determinano la strategia d\IeC {\textquoteright }entrata ottimale}{13}
-\contentsline {subsection}{\numberline {11.4}First Movers vs Follower}{14}
+\contentsline {subsection}{\numberline {11.3}Fattori che determinano la strategia d\IeC {\textquoteright }entrata ottimale}{14}
+\contentsline {subsection}{\numberline {11.4}First Movers vs Follower}{15}
 \contentsline {subsection}{\numberline {11.5}FMA nel mercato Abilitato da Internet}{15}
 \contentsline {section}{\numberline {12}Definizione dell'orientamento strategico}{15}
 \contentsline {subsection}{\numberline {12.1}Come si contruisce nua strategia basatas ull'innovazione?}{15}
@@ -67,4 +67,9 @@
 \contentsline {subsection}{\numberline {16.5}Modularit\IeC {\`a} dei prodotti}{24}
 \contentsline {subsection}{\numberline {16.6}Strutture Loosely Coupled}{25}
 \contentsline {subsection}{\numberline {16.7}La gestione dei processi interazionali di innovazione}{25}
-\contentsline {section}{\numberline {17}Conclusion}{25}
+\contentsline {section}{\numberline {17}Gestione dei Team per lo sviluppo di un prodotto}{25}
+\contentsline {subsection}{\numberline {17.1}Il caso Disney}{25}
+\contentsline {subsection}{\numberline {17.2}Dimensione}{26}
+\contentsline {subsection}{\numberline {17.3}Alleanze e licensing per stabilire uno standard}{26}
+\contentsline {subsection}{\numberline {17.4}Leadership del team }{26}
+\contentsline {section}{\numberline {18}Conclusion}{27}
