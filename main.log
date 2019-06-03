@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.30)  2 JUN 2019 15:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.30)  3 JUN 2019 10:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -553,7 +553,11 @@ File: images/spec_lav.png Graphic file (type png)
 <use images/spec_lav.png>
 Package pdftex.def Info: images/spec_lav.png  used on input line 84.
 (pdftex.def)             Requested size: 272.52023pt x 98.76976pt.
- [3 <./images/fisiocratici.jpeg> <./images/spec_lav.png>] [4]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./images/fisiocratici.jpeg>] [4 <./images/spec_lav.png>]
 Overfull \hbox (2.15076pt too wide) in paragraph at lines 190--191
 []\OT1/cmr/bx/n/10 L'imprenditore\OT1/cmr/m/n/10 :sviluppa pro-getti cre-ativi 
 af-frontando il ris-chio, la re-sistenza al cam-bi-a-mento e l'esitazione
@@ -615,10 +619,10 @@ File: images/licensing.png Graphic file (type png)
 Package pdftex.def Info: images/licensing.png  used on input line 1035.
 (pdftex.def)             Requested size: 336.04955pt x 186.69418pt.
 
-[20 <./images/licensing.png>] [21] [22]
+[20 <./images/licensing.png>] [21] [22] [23] [24]
 
-Package natbib Warning: Citation `adams1995hitchhiker' on page 23 undefined on 
-input line 1231.
+Package natbib Warning: Citation `adams1995hitchhiker' on page 25 undefined on 
+input line 1459.
 
 (./main.bbl
 
@@ -628,16 +632,16 @@ Package natbib Warning: Empty `thebibliography' environment on input line 3.
 
 Package natbib Warning: There were undefined citations.
 
-[23] (./main.aux)
+[25] (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2642 strings out of 494923
- 35531 string characters out of 6180742
+ 2644 strings out of 494923
+ 35557 string characters out of 6180742
  102489 words of memory out of 5000000
- 5917 multiletter control sequences out of 15000+600000
+ 5919 multiletter control sequences out of 15000+600000
  8241 words of font info for 29 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  41i,8n,28p,963b,279s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -651,10 +655,10 @@ pe1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmti10.pfb>
-Output written on main.pdf (23 pages, 1070549 bytes).
+Output written on main.pdf (25 pages, 1078708 bytes).
 PDF statistics:
- 136 PDF objects out of 1000 (max. 8388607)
- 83 compressed objects within 1 object stream
+ 143 PDF objects out of 1000 (max. 8388607)
+ 88 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  46 words of extra memory for PDF output out of 10000 (max. 10000000)
 
