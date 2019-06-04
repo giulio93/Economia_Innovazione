@@ -104,4 +104,8 @@
 \contentsline {subsection}{\numberline {21.6}Spin-off Accademici}{37}
 \contentsline {subsection}{\numberline {21.7}Processi di Trasferimento Tech.}{37}
 \contentsline {subsection}{\numberline {21.8}Forme dell'innovazione}{37}
-\contentsline {section}{\numberline {22}Conclusion}{37}
+\contentsline {section}{\numberline {22}I sistemi di Innovazione Nazionale }{37}
+\contentsline {subsection}{\numberline {22.1}Le fonti della conoscenza}{38}
+\contentsline {section}{\numberline {23}Il ruolo della Conoscenza }{39}
+\contentsline {subsection}{\numberline {23.1}Il modello delal triplice elica}{40}
+\contentsline {section}{\numberline {24}IL Caso eNtlfix}{40}
