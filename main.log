@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.30)  4 JUN 2019 09:40
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.4.30)  4 JUN 2019 10:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -541,72 +541,64 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 43.
 
-(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+[3]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 45.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 43.
-<images/fisiocratici.jpeg, id=14, 197.73875pt x 256.96pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 45.
+<images/fisiocratici.jpeg, id=17, 197.73875pt x 256.96pt>
 File: images/fisiocratici.jpeg Graphic file (type jpg)
 <use images/fisiocratici.jpeg>
-Package pdftex.def Info: images/fisiocratici.jpeg  used on input line 65.
+Package pdftex.def Info: images/fisiocratici.jpeg  used on input line 67.
 (pdftex.def)             Requested size: 197.73827pt x 256.95937pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3]
-<images/spec_lav.png, id=19, 908.39375pt x 329.23pt>
+ [4 <./images/fisiocratici.jpeg>]
+<images/spec_lav.png, id=22, 908.39375pt x 329.23pt>
 File: images/spec_lav.png Graphic file (type png)
 <use images/spec_lav.png>
-Package pdftex.def Info: images/spec_lav.png  used on input line 84.
+Package pdftex.def Info: images/spec_lav.png  used on input line 86.
 (pdftex.def)             Requested size: 272.52023pt x 98.76976pt.
- [4 <./images/fisiocratici.jpeg> <./images/spec_lav.png>] [5]
-Overfull \hbox (2.15076pt too wide) in paragraph at lines 190--191
+ [5 <./images/spec_lav.png>] [6]
+Overfull \hbox (2.15076pt too wide) in paragraph at lines 192--193
 []\OT1/cmr/bx/n/10 L'imprenditore\OT1/cmr/m/n/10 :sviluppa pro-getti cre-ativi 
 af-frontando il ris-chio, la re-sistenza al cam-bi-a-mento e l'esitazione
  []
 
-[6] [7] [8] [9] [10]
+[7] [8] [9] [10]
 <images/curva_S.png, id=48, 559.08875pt x 346.29375pt>
 File: images/curva_S.png Graphic file (type png)
 <use images/curva_S.png>
-Package pdftex.def Info: images/curva_S.png  used on input line 449.
+Package pdftex.def Info: images/curva_S.png  used on input line 451.
 (pdftex.def)             Requested size: 167.7279pt x 103.88892pt.
-<images/adopters.png, id=49, 716.6775pt x 288.07625pt>
+ [11 <./images/curva_S.png>]
+<images/adopters.png, id=53, 716.6775pt x 288.07625pt>
 File: images/adopters.png Graphic file (type png)
 <use images/adopters.png>
-Package pdftex.def Info: images/adopters.png  used on input line 489.
+Package pdftex.def Info: images/adopters.png  used on input line 491.
 (pdftex.def)             Requested size: 215.00491pt x 86.42354pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[11 <./images/curva_S.png>] [12 <./images/adopters.png>] [13] [14]
+ [12 <./images/adopters.png>]
+[13] [14]
 <images/Entry_choice.png, id=65, 1065.9825pt x 558.085pt>
 File: images/Entry_choice.png Graphic file (type png)
 <use images/Entry_choice.png>
-Package pdftex.def Info: images/Entry_choice.png  used on input line 704.
+Package pdftex.def Info: images/Entry_choice.png  used on input line 706.
 (pdftex.def)             Requested size: 426.38545pt x 223.23004pt.
-<images/Porter.png, id=66, 744.7825pt x 453.695pt>
+ [15 <./images/Entry_choice.png>]
+<images/Porter.png, id=70, 744.7825pt x 453.695pt>
 File: images/Porter.png Graphic file (type png)
 <use images/Porter.png>
-Package pdftex.def Info: images/Porter.png  used on input line 734.
+Package pdftex.def Info: images/Porter.png  used on input line 736.
 (pdftex.def)             Requested size: 297.90771pt x 181.47478pt.
- [15 <./images/Entry_choice.png>]
-<images/stakeholders.png, id=71, 736.7525pt x 482.80376pt>
+ [16 <./images/Porter.png>]
+<images/stakeholders.png, id=75, 736.7525pt x 482.80376pt>
 File: images/stakeholders.png Graphic file (type png)
 <use images/stakeholders.png>
-Package pdftex.def Info: images/stakeholders.png  used on input line 786.
+Package pdftex.def Info: images/stakeholders.png  used on input line 788.
 (pdftex.def)             Requested size: 294.69577pt x 193.11807pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[16 <./images/Porter.png>]
-Overfull \hbox (12.47243pt too wide) in paragraph at lines 807--811
+Overfull \hbox (12.47243pt too wide) in paragraph at lines 809--813
 \OT1/cmr/m/n/10 sviluppi fu-turi non ven-gono con-siderati. Trap-pola delle com
 -pe-tenze, che cosa manca? Le \OT1/cmr/bx/n/10 meta-competenze\OT1/cmr/m/n/10 :
 
@@ -616,23 +608,23 @@ Overfull \hbox (12.47243pt too wide) in paragraph at lines 807--811
 <images/allez_stra.png, id=87, 881.2925pt x 373.395pt>
 File: images/allez_stra.png Graphic file (type png)
 <use images/allez_stra.png>
-Package pdftex.def Info: images/allez_stra.png  used on input line 999.
+Package pdftex.def Info: images/allez_stra.png  used on input line 1001.
 (pdftex.def)             Requested size: 352.51076pt x 149.35535pt.
  [20 <./images/allez_stra.png>]
 <images/licensing.png, id=92, 840.13875pt x 466.74374pt>
 File: images/licensing.png Graphic file (type png)
 <use images/licensing.png>
-Package pdftex.def Info: images/licensing.png  used on input line 1035.
+Package pdftex.def Info: images/licensing.png  used on input line 1037.
 (pdftex.def)             Requested size: 336.04955pt x 186.69418pt.
 
 [21 <./images/licensing.png>] [22] [23] [24] [25] [26]
 <images/ceo.png, id=113, 1481.535pt x 918.43124pt>
 File: images/ceo.png Graphic file (type png)
 <use images/ceo.png>
-Package pdftex.def Info: images/ceo.png  used on input line 1551.
+Package pdftex.def Info: images/ceo.png  used on input line 1553.
 (pdftex.def)             Requested size: 592.6035pt x 367.36598pt.
 
-Overfull \hbox (108.90666pt too wide) in paragraph at lines 1551--1552
+Overfull \hbox (108.90666pt too wide) in paragraph at lines 1553--1554
  [][] 
  []
 
@@ -643,10 +635,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <images/virtuali.png, id=117, 1327.96124pt x 910.40125pt>
 File: images/virtuali.png Graphic file (type png)
 <use images/virtuali.png>
-Package pdftex.def Info: images/virtuali.png  used on input line 1603.
+Package pdftex.def Info: images/virtuali.png  used on input line 1605.
 (pdftex.def)             Requested size: 531.1751pt x 364.15404pt.
 
-Overfull \hbox (47.47826pt too wide) in paragraph at lines 1603--1604
+Overfull \hbox (47.47826pt too wide) in paragraph at lines 1605--1606
  [][] 
  []
 
@@ -657,10 +649,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <images/DFM.png, id=129, 1507.6325pt x 774.895pt>
 File: images/DFM.png Graphic file (type png)
 <use images/DFM.png>
-Package pdftex.def Info: images/DFM.png  used on input line 1829.
+Package pdftex.def Info: images/DFM.png  used on input line 1831.
 (pdftex.def)             Requested size: 603.04233pt x 309.95251pt.
 
-Overfull \hbox (119.34549pt too wide) in paragraph at lines 1829--1830
+Overfull \hbox (119.34549pt too wide) in paragraph at lines 1831--1832
  [][] 
  []
 
@@ -671,7 +663,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <images/Markadopters.png, id=141, 1205.50375pt x 932.48375pt>
 File: images/Markadopters.png Graphic file (type png)
 <use images/Markadopters.png>
-Package pdftex.def Info: images/Markadopters.png  used on input line 2051.
+Package pdftex.def Info: images/Markadopters.png  used on input line 2053.
 (pdftex.def)             Requested size: 361.65392pt x 279.74728pt.
 
 
@@ -681,13 +673,13 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <images/ruoloimp.png, id=149, 1588.93625pt x 909.3975pt>
 File: images/ruoloimp.png Graphic file (type png)
 <use images/ruoloimp.png>
-Package pdftex.def Info: images/ruoloimp.png  used on input line 2121.
+Package pdftex.def Info: images/ruoloimp.png  used on input line 2123.
 (pdftex.def)             Requested size: 476.68456pt x 272.82135pt.
  [36 <./images/ruoloimp.png>]
 <images/ttf.png, id=154, 1300.86pt x 792.9625pt>
 File: images/ttf.png Graphic file (type png)
 <use images/ttf.png>
-Package pdftex.def Info: images/ttf.png  used on input line 2205.
+Package pdftex.def Info: images/ttf.png  used on input line 2207.
 (pdftex.def)             Requested size: 390.26102pt x 237.89058pt.
 
 
@@ -697,16 +689,16 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <images/dinInn.png, id=163, 1540.75626pt x 599.23875pt>
 File: images/dinInn.png Graphic file (type png)
 <use images/dinInn.png>
-Package pdftex.def Info: images/dinInn.png  used on input line 2345.
+Package pdftex.def Info: images/dinInn.png  used on input line 2347.
 (pdftex.def)             Requested size: 462.23044pt x 179.77301pt.
  [39 <./images/dinInn.png>]
 <images/SIN.png, id=168, 818.05624pt x 372.39125pt>
 File: images/SIN.png Graphic file (type png)
 <use images/SIN.png>
-Package pdftex.def Info: images/SIN.png  used on input line 2390.
+Package pdftex.def Info: images/SIN.png  used on input line 2392.
 (pdftex.def)             Requested size: 245.41876pt x 111.71823pt.
 
-Overfull \hbox (15.23463pt too wide) in paragraph at lines 2395--2397
+Overfull \hbox (15.23463pt too wide) in paragraph at lines 2397--2399
 []\OT1/cmr/m/n/10 Le re-lazioni Uni-ver-sit^^Ra-Industria-Governo ri-combinano 
 tre fun-zioni fon-da-men-tali di un Sis-tema socio-economico: 
  []
@@ -719,7 +711,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  2686 strings out of 494923
  36335 string characters out of 6180742
- 104551 words of memory out of 5000000
+ 104549 words of memory out of 5000000
  5956 multiletter control sequences out of 15000+600000
  8241 words of font info for 29 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
@@ -734,7 +726,7 @@ pe1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
 nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmti10.pfb>
-Output written on main.pdf (40 pages, 3621891 bytes).
+Output written on main.pdf (40 pages, 3621965 bytes).
 PDF statistics:
  209 PDF objects out of 1000 (max. 8388607)
  122 compressed objects within 2 object streams

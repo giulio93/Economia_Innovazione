@@ -1,35 +1,35 @@
-\contentsline {section}{\numberline {1}Introduzione}{3}
-\contentsline {section}{\numberline {2}La teoria economica del valore}{3}
-\contentsline {section}{\numberline {3}Le origini del concetto di valore}{3}
+\contentsline {section}{\numberline {1}Introduzione}{4}
+\contentsline {section}{\numberline {2}La teoria economica del valore}{4}
+\contentsline {section}{\numberline {3}Le origini del concetto di valore}{4}
 \contentsline {section}{\numberline {4}La scuola classica - dal valore nella terra al valore nel lavoro}{4}
-\contentsline {subsection}{\numberline {4.1}Smith - prodotto netto composto da rendita e profitto}{4}
+\contentsline {subsection}{\numberline {4.1}Smith - prodotto netto composto da rendita e profitto}{5}
 \contentsline {subsection}{\numberline {4.2}Ricardo - la distribuzione del lavoro}{5}
 \contentsline {subsection}{\numberline {4.3}Marx}{5}
 \contentsline {subsection}{\numberline {4.4}Verso una nuova teoria del valore - I Marginalisti}{5}
-\contentsline {section}{\numberline {5}Misurare la ricchezza}{5}
+\contentsline {section}{\numberline {5}Misurare la ricchezza}{6}
 \contentsline {section}{\numberline {6}Il concetto di Innvazione in economia}{6}
 \contentsline {subsection}{\numberline {6.1}Cosa rende un impresa innovativa?}{7}
 \contentsline {section}{\numberline {7}Le fonti dell'Innvoazione }{7}
 \contentsline {subsection}{\numberline {7.1}Caso PillCamera }{7}
-\contentsline {subsection}{\numberline {7.2}Le fonti dell'innovazione}{7}
+\contentsline {subsection}{\numberline {7.2}Le fonti dell'innovazione}{8}
 \contentsline {subsection}{\numberline {7.3}Il ruolo della Ricerca}{8}
 \contentsline {subsection}{\numberline {7.4}Network Collaborativi}{9}
-\contentsline {subsection}{\numberline {7.5}Concetto di Cluster Tecnologico}{9}
+\contentsline {subsection}{\numberline {7.5}Concetto di Cluster Tecnologico}{10}
 \contentsline {section}{\numberline {8}Forme e modelli dell'innvazione}{10}
 \contentsline {subsection}{\numberline {8.1}Caso Studio Tesla Motor}{10}
 \contentsline {subsection}{\numberline {8.2}Forme dell'innvoazione}{10}
 \contentsline {section}{\numberline {9}Ciclo di vita di della tecnologia}{11}
 \contentsline {subsection}{\numberline {9.1}La diffusione della Tecnologia}{11}
-\contentsline {section}{\numberline {10}Conflitti di standard e disegno dominante}{11}
-\contentsline {subsection}{\numberline {10.1}La concorrenza per lo standard dei pagamenti digitali}{11}
+\contentsline {section}{\numberline {10}Conflitti di standard e disegno dominante}{12}
+\contentsline {subsection}{\numberline {10.1}La concorrenza per lo standard dei pagamenti digitali}{12}
 \contentsline {subsection}{\numberline {10.2}L'affermazione di uno starndard dominante}{12}
 \contentsline {subsection}{\numberline {10.3}Formazione dei mercati winners-take-all}{13}
 \contentsline {subsection}{\numberline {10.4}Valore stand-alone di una tecnologia}{13}
-\contentsline {section}{\numberline {11}Tempo d'entrata}{13}
-\contentsline {subsection}{\numberline {11.1}Vantaggi di un First mover}{13}
+\contentsline {section}{\numberline {11}Tempo d'entrata}{14}
+\contentsline {subsection}{\numberline {11.1}Vantaggi di un First mover}{14}
 \contentsline {subsection}{\numberline {11.2}Svantaggi First Mover}{14}
-\contentsline {subsection}{\numberline {11.3}Fattori che determinano la strategia d\IeC {\textquoteright }entrata ottimale}{14}
-\contentsline {subsection}{\numberline {11.4}First Movers vs Follower}{15}
+\contentsline {subsection}{\numberline {11.3}Fattori che determinano la strategia d\IeC {\textquoteright }entrata ottimale}{15}
+\contentsline {subsection}{\numberline {11.4}First Movers vs Follower}{16}
 \contentsline {subsection}{\numberline {11.5}FMA nel mercato Abilitato da Internet}{16}
 \contentsline {section}{\numberline {12}Definizione dell'orientamento strategico}{16}
 \contentsline {subsection}{\numberline {12.1}Come si contruisce nua strategia basatas ull'innovazione?}{16}
@@ -108,4 +108,4 @@
 \contentsline {subsection}{\numberline {22.1}Le fonti della conoscenza}{38}
 \contentsline {section}{\numberline {23}Il ruolo della Conoscenza }{39}
 \contentsline {subsection}{\numberline {23.1}Il modello delal triplice elica}{40}
-\contentsline {section}{\numberline {24}IL Caso eNtlfix}{40}
+\contentsline {section}{\numberline {24}IL Caso Netflix}{40}
